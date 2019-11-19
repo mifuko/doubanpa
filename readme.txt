@@ -5,4 +5,4 @@ lr: quantity of reply
 lt:title
 lz:louzhu
 
-图片下载到本地根目录
+download pic to root directory
